@@ -23,38 +23,37 @@ nav{
 }
 section{
     background:#ebebeb;
-    position:relative;
+    text-align:center;
+    padding:20px;
     width:200px;
-    height:100px;
+    height:200px;
+    margin-bottom:0px;
     
-
-
 }
 aside{
     background:#ebebeb;
     text-align:center;
-    padding:40px;
+    padding:20px;
     width:200px;
     height:200px;
-    margin-bottom:20px;
-    float:left;
+    margin-bottom:0px;
+    float: right;
 
 
 }
-footer{
+.relaive{
     background: #ebebeb;
-    padding:40px;
+    position: relative;
+    margin-bottom: 100px;
+
 
 }
-article{
-    position: absolute;
-    background: #ebebeb;
-  width: 20px;
-  height: 20px;
-    
-
-
-    
+ /* article{
+ position: absolute;
+ background: #ebebeb;
+ width: 20px;
+ height: 20px;
+     
 }
 h1{
     color: #777;
@@ -69,4 +68,21 @@ p{
     height:20px;
     width: 20px;
     
+}  */
+.main{
+    padding: 20px;
+
+}
+
+.container{
+    background: #444141;
+    padding: 20px; 
+}
+
+.footer{
+   
+    background: #ebebeb;
+    margin-bottom: 200px;
+    padding: 20px;
+    text-align: center;
 }
